@@ -1,0 +1,7 @@
+/home/danyilzozulia/CLionProjects/POng2/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/danyilzozulia/CLionProjects/POng2/cmake-build-debug/CMakeFiles/install/local.dir
+/home/danyilzozulia/CLionProjects/POng2/cmake-build-debug/CMakeFiles/POng2.dir
+/home/danyilzozulia/CLionProjects/POng2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/danyilzozulia/CLionProjects/POng2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/danyilzozulia/CLionProjects/POng2/cmake-build-debug/CMakeFiles/install.dir
+/home/danyilzozulia/CLionProjects/POng2/cmake-build-debug/CMakeFiles/list_install_components.dir
